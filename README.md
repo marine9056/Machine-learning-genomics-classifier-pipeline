@@ -44,7 +44,7 @@ Output:
 Top 1000 informative genes selected based on statistical variance filtering.
 
 Output:
-- data/processed/ml_feature_selected.csv
+- data/processed/ml_dataset_selected.csv
 
 ---
 
